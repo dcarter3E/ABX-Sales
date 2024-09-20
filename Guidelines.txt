@@ -1,0 +1,13 @@
+DATA ANALYSIS, NO DATA CLEANING!
+
+
+Problem Statement
++ ABX Store wants to increase their sales in the United States by 20%.
++ They need information on where to run ad campaigns and which customers to target through their ads.
++ They require thorough information so they can prepare a good strategy to increase their sales.
+
+Data Analysis Process
+1. What are the top 3 products based on total revenue for each product?
+2. What are the top 3 months of the year based on total revenue for each month?
+3. What are the top 3 states that ordered the most of the top 3 products from question 1? 
+4. Show which age group generated the most revenue from the top 3 states in question 3.
